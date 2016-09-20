@@ -65,6 +65,16 @@
 				<artifactId>wang-core</artifactId>
 				<version>${version-wang-core}</version>
 			</dependency>
+			<dependency>
+				<groupId>com.wang</groupId>
+				<artifactId>service-service</artifactId>
+				<version>${version-wang-core}</version>
+			</dependency>
+			<dependency>
+				<groupId>com.wang</groupId>
+				<artifactId>service-imp</artifactId>
+				<version>${version-wang-core}</version>
+			</dependency>
 	
 			<!-- database -->
 			<dependency>
